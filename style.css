@@ -1,0 +1,147 @@
+div#info{
+    background-color: #b0f2b6;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width:400px;
+    height:1100px;
+    text-align: left;
+    line-height:1.2em;
+}
+
+div#infoformation{
+    background-color: white;
+    position: absolute;
+    top: 0px;
+    left: 400px;
+    width:700px;
+    height:700px;
+}
+
+div#titreFormation{
+    background-color: green;
+}
+
+div#moncv{
+    background-color: white;
+
+}
+
+div#profil{
+    border-top: 1px solid #000;
+    width : 350px;
+    text-align: left;
+}
+
+div#titreprofil{
+    text-align: left;
+    margin-top:50px;
+}
+
+div#nom{
+    text-align: center;
+    font-size: larger;
+    font-weight:bold;
+    line-height:1.5em;
+    padding-top: 300px;
+}
+
+div#poste{
+    text-align: center;
+}
+
+div#titretelephone{
+    border-top: 1px solid #000;
+    width : 350px;
+    margin-top: 40px;
+}
+
+div#titrelapro{
+    line-height:0em;
+    margin-top: 60px;
+}
+
+div#titrestefalycée{
+    line-height:0em;
+    margin-top: 60px;
+}
+
+div#infostefacollège{
+    line-height:0em;
+    margin-top: 60px;
+}
+
+div#parcoursprofessionnel{
+
+    margin-top: 60px;
+}
+div#titreparcourspro{
+    background-color: green;
+    width:600px;
+    height:40px;
+}
+
+div#stageveto{
+    margin-top: 60px;
+    line-height:0em;
+}
+
+div#titrestagetennis{
+    margin-top: 60px;
+    line-height:0em;
+}
+
+div#titrestagenatation{
+    margin-top: 60px;
+    line-height:0em;
+}
+
+div#titrecompétences{
+    background-color: green;
+    width:600px;
+    height:40px;
+}
+
+div#compinformatiques{
+    margin-top:30px;
+    line-height:0em;
+}
+
+div#Réseauxsociaux{
+    line-height:0em;
+}
+
+div#Polyvalence{
+    line-height:0em;
+}
+
+div#langues{
+    line-height:0em;
+}
+
+div#titreContact{
+    line-height:0em;
+    margin-top:50px;
+}
+
+div#tireemail{
+    margin-top:40px;
+}
+
+div#titrepermis{
+    margin-top:40px;
+}
+div#titrenaissance{
+    margin-top:40px;
+    line-height:0em;
+}
+
+div#titrenationalité{
+    margin-top:40px;
+    line-height:0em;
+}
+
+div#titreAdresse{
+    margin-top:40px;
+    line-height:0em;
+}
